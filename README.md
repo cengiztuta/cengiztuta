@@ -6,7 +6,7 @@
 <h3 align="center">Contact with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/cengiz-tuta-bbb79a20b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cengiz-tuta-bbb79a20b" height="30" width="40" /></a>
-<a href="https://fb.com/cengiz.tuta07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cengiz.tuta07" height="30" width="30" /></a>
+<a href="https://fb.com/cengiz.tuta07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cengiz.tuta07" height="30" width="40" /></a>
 <a href="https://instagram.com/cengiztuta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cengiztuta" height="30" width="40" margin="20" /></a>
 </p>
 
