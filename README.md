@@ -1,8 +1,7 @@
 
  <h1 align="center">Hi 👋, I'm Cengiz Tuta</h1>
-<h3 align="center">A passionate frontend developer from Turkiye</h3>
 
-- 💬 Ask me about **React,react-native**
+<h3 align="center">A passionate frontend developer from Turkiye</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
