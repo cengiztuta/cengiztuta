@@ -63,6 +63,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=cengiztuta&show_icons=true&locale=en" alt="cengiztuta" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cengiztuta&" alt="cengiztuta" />
-</p>
+
